@@ -135,10 +135,9 @@ RAZORPAY_KEY_SECRET = 'RG62fju5jzt4viovb20NqnXE'
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-#EMAIL_HOST_USER = 'kaidt2k@gmail.com'
-#EMAIL_HOST_PASSWORD = 'trungtrinhleesin231249761'
-EMAIL_HOST_USER = 'giaosuonline11@gmail.com'
-EMAIL_HOST_PASSWORD = '0396559048'
+
+EMAIL_HOST_USER = ''
+EMAIL_HOST_PASSWORD = ''
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field
